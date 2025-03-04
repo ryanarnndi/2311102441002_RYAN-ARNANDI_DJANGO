@@ -1,0 +1,5 @@
+# Mendaftar Madridista 
+## Website Penyedia Kartu Tanda Fans Real Madrid
+Website yang bertujuan untuk pendaftaran member baru madridista agar nanti nya mendapat promo menarik dalam setiap pertandingan yang ditonton
+## Untuk menjalankan yang saya kerjakan 
+Membuat repositories di github >> Lalu Kita git clone di terminal >> Lalu masuk ke folder dengan "cd (Nama folder)" >> Lalu buat folder virtual environment dengan cara ketik "python -m venv .venv" >> masuk ke mode virtual environment dengan cara "cd .venv/Scripts/activate" >> install django menggunakan cara pip install django >> memulai projek dgn cara django-admin startproject madridista >> menambahkan gitignore dan readme dengan cara (type nul > .gitignore/README.md) >> setelah menambahkan gitignore dan readme lalu di modifikasi >> lalu kita masuk ke folder madrdista dengan cara cd madridista >> lalu kita jalankan servernya dengan cara python manage.py runserver.
